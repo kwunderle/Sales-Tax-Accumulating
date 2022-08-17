@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\bin\Debug\CalcWithAccumsB - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\bin\Debug\CalcWithAccumsB - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\bin\Debug\CalcWithAccumsB - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\obj\Debug\CalcWithAccumsB - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\obj\Debug\CalcWithAccumsB___Katharine_Wunderle.taxCalcAccum.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\obj\Debug\CalcWithAccumsB___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\obj\Debug\CalcWithAccumsB - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\obj\Debug\CalcWithAccumsB - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\obj\Debug\CalcWithAccumsB - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 4\CalcAccumProblems - Katharine Wunderle\CalcWithAccumsB - Katharine Wunderle\obj\Debug\CalcWithAccumsB - Katharine Wunderle.pdb
